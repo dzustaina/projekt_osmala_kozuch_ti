@@ -1,0 +1,279 @@
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll.config
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\podejsciedwa.pdb
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe.config
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csc.rsp
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe.config
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\csi.rsp
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.AppContext.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Collections.Immutable.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Console.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Globalization.Calendars.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Http.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Sockets.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Reflection.Metadata.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.ValueTuple.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe.config
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\vbc.rsp
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe.config
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\EntityFramework.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Microsoft.Web.Infrastructure.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Razor.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\WebGrease.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\EntityFramework.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.Razor.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.pdb
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.Helpers.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.Mvc.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.Optimization.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.Razor.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.AssemblyReference.cache
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CoreCompileInputs.cache
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CopyComplete
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.dll
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.pdb
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.First.resources
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.GenerateResource.cache
+D:\PLIKI Z PULPITU\semestr 4\techniki internetowe\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.InitialMigration.resources
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll.config
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.pdb
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe.config
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.rsp
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe.config
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.rsp
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.AppContext.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Console.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Http.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe.config
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.rsp
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Razor.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\WebGrease.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Razor.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.pdb
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.AssemblyReference.cache
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.First.resources
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.InitialMigration.resources
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.GenerateResource.cache
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CoreCompileInputs.cache
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CopyComplete
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.dll
+C:\Users\Ania\Documents\studia\semestr4\Techniki Internetowe\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.pdb
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll.config
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\podejsciedwa.pdb
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.exe.config
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csc.rsp
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.exe.config
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\csi.rsp
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Managed.Core.targets
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.AppContext.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Collections.Immutable.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Console.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Globalization.Calendars.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Http.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Net.Sockets.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Reflection.Metadata.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.ValueTuple.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XmlDocument.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.exe.config
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\vbc.rsp
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\roslyn\VBCSCompiler.exe.config
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.Web.Infrastructure.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Razor.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\WebGrease.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\EntityFramework.SqlServer.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Helpers.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Mvc.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Optimization.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.Razor.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Deployment.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\System.Web.WebPages.Razor.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Newtonsoft.Json.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Antlr3.Runtime.pdb
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Helpers.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Mvc.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Optimization.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.Razor.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Deployment.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\bin\pl\System.Web.WebPages.Razor.resources.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.AssemblyReference.cache
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.First.resources
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.Migrations.InitialMigration.resources
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.GenerateResource.cache
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CoreCompileInputs.cache
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.csproj.CopyComplete
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.dll
+D:\POBRANE\podejsciedwa-final\podejsciedwa\podejsciedwa\obj\Debug\podejsciedwa.pdb

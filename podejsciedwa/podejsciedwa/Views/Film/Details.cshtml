@@ -1,0 +1,63 @@
+﻿@model podejsciedwa.Models.DbModels.Film
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Film</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aktor.Imie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aktor.Imie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Aktor.Nazwisko)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aktor.Nazwisko)
+        </dd>
+
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Biblioteka.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Biblioteka.Nazwa)
+        </dd>
+
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tytul)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tytul)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gatunek)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gatunek)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj film", "Edit", new { id = Model.FilmId }) |
+    @Html.ActionLink("Wróć do listy filmów", "Index")
+</p>

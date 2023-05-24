@@ -1,0 +1,56 @@
+﻿@model podejsciedwa.Models.DbModels.Film
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Usuwanie filmu</h2>
+
+<h3>Czy jesteś pewien, że chcesz usunąć film z listy?</h3>
+<div>
+    <h4>Film</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Aktor.Nazwisko)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Aktor.Nazwisko)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Biblioteka.Nazwa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Biblioteka.Nazwa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tytul)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tytul)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Gatunek)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gatunek)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Usuń z listy" class="btn btn-default" /> |
+            @Html.ActionLink("Wróć do listy filmów", "Index")
+        </div>
+    }
+</div>

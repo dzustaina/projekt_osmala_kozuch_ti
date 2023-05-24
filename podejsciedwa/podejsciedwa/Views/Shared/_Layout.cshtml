@@ -1,0 +1,67 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - moja aplikacja platformy ASP.NET</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <style>
+        div  {
+            font-family: "Roboto Mono", monospace;
+            font-size: x-large;
+            font-weight: bold;
+            color: black;
+            margin-top: 20px;
+            padding-left: 15px;
+            padding-right: 15px;
+            
+        }
+
+            div p {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: relative;
+                text-align: center;
+            }
+
+            div dt, dd {
+                font-size: large;
+                font-weight: normal;
+            }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <div class="container">
+            @Html.ActionLink("Biblioteczka filmowa", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Przełącz nawigację" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("O aplikacji", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Lista filmów", "Index", "Film", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Lista aktorów", "ViewAll", "Aktor", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Lista bibliotek", "Index", "Biblioteka", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Moja biblioteczka</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+
+</html>

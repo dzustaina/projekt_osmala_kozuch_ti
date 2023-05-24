@@ -1,0 +1,51 @@
+﻿@model IEnumerable<podejsciedwa.Models.DbModels.Film>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista filmów</h2>
+
+<p>
+    @Html.ActionLink("Dodaj nową pozycję", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Aktor.Nazwisko)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Biblioteka.Nazwa)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tytul)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Gatunek)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Aktor.Nazwisko)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Biblioteka.Nazwa)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tytul)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Gatunek)
+        </td>
+        <td>
+            @Html.ActionLink("Edytuj", "Edit", new { id=item.FilmId }) |
+            @Html.ActionLink("Szczegóły", "Details", new { id=item.FilmId }) |
+            @Html.ActionLink("Usuń film", "Delete", new { id=item.FilmId })
+        </td>
+    </tr>
+}
+
+</table>

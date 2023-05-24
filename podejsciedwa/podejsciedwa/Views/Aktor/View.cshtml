@@ -1,0 +1,42 @@
+﻿@model podejsciedwa.Models.DbModels.Aktor
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>Szczegóły</h2>
+
+<div>
+    <h4>Aktor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AktorId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AktorId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Imie)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Imie)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Nazwisko)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nazwisko)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edytuj aktora", "Edit", new { id = Model.AktorId }) |
+    @Html.ActionLink("Wróć do listy aktorów", "ViewAll")
+</p>
